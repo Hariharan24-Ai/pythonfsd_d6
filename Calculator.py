@@ -14,7 +14,7 @@ def calc():
             print("Result:", a * b)
 
         elif op == "/":
-            print("Result:", a // b)
+            print("Result:", a / b)
 
         else:
             print("Invalid operator")
